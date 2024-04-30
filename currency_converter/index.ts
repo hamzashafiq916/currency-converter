@@ -37,6 +37,10 @@ let baseAmount = amount / fromAmount; //USD base currency
 let convertedAmount = baseAmount * toAmount;
 console.log(convertedAmount);
 
+console.log(`hamza`);
+
+
 // console.log(fromamount);
+
 // console.log(toamount);
 // console.log(amount);
